@@ -2,9 +2,8 @@
 
 This analysis aims to analyse wait times for prioritized medical procedures across Canada's major provinces from 2008 to 2024. Its objective is to benchmark provincial performance, identifies trends over the years, extracts procedure-specific patterns, and spotlights regions with notable variations.
 
-[Dashboard-1](https://public.tableau.com/app/profile/waqas5688/viz/processed_wait_times/Benchmark)
-
-[Dashboard-2](https://public.tableau.com/app/profile/waqas5688/viz/processed_wait_times/Dashboard2)
+Dashboards ([1](https://public.tableau.com/app/profile/waqas5688/viz/processed_wait_times/Benchmark), 
+[2](https://public.tableau.com/app/profile/waqas5688/viz/processed_wait_times/Dashboard2))
 
 ![Dashboard-1-img](https://github.com/qureshiwaqas/procedure-wait-time-analysis/blob/main/resources/d1.png)
 ![Dashboard-2-img](https://github.com/qureshiwaqas/procedure-wait-time-analysis/blob/main/resources/d2.png)
