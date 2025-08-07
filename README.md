@@ -23,3 +23,22 @@ This analysis aims to analyse wait times for prioritized medical procedures acro
 - Added flags
 
 ## Insights Derived
+- ⚠️ Critical Issues
+  - 1 in 5 patients wait longer than doctors consider safe
+  - Typical wait time is over 1 month nationwide
+  - Bone/joint surgery waits are a crisis everywhere in Canada
+- 📊 Regional Comparisons
+  - Ontario performs best (thanks to eCTAS system)
+  - Quebec has longest waits despite smaller population
+  - British Columbia has middle-ranking results (can improve)
+- ℹ️ System Trends
+  - Hospitals handle cases faster, but patient numbers keep rising
+  - Even in Ontario, 10% wait up to 4 months
+
+Ontario demonstrates that well-designed systems can maintain quality under heavy demand - a model warranting nationwide study. 
+
+## Recommendations
+- Prioritize Orthopedic Reforms
+- Scale cost-effective procedures
+- Adopt Ontario's System nationwide
+- Targeted backlog analysis
